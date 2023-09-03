@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com. tvazteca.live&app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&app_domain=ottera.tv&app_name=tvazteca&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=tvazteca& content_dist_name=internal&device_make=&device_model=&preferred_language=ES&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=ES&custom_17=en&site_page=ottera.tv&gender=not_specified&yob=0&livestream=1&custom_param_1=escritorio&custom_param_4=internal&custom_param_5=web&custom_param_6=South%20America&custom_param_0=&custom_param_2=&custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | Dakota del Sur
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7MSjxP4gnfCxRlqhEE0WPH1HsK6MyH3fOM0ago--2ye)/dm/3/x7wijay/s/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxJGKakG48HrRjaHSzySx6R6z-xSKwCmq2ax55ayQ2DQ)/dm/3/x7wijay/s/live-2.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
