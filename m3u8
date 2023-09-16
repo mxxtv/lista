@@ -358,6 +358,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7ePvek475fgMX94w_9JsQKWsAFw8TxYiDhZGGeDuxBC)/dm/3/x7wijay/s/live-2.m3u8
+
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
