@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5ZID1_YlrMsrWT07kVkJRtmoDGriTCqcz5t-WQWQPpj)/dm/3/x7wijay/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5ZID1_YlrMsrWT07kVkJRtmoDGriTCqcz5t-WQWQPpj)/dm/3/x7wijay/s/live-2.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -402,7 +402,7 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-135 tvg-logo="https://lc.cx/q4XH-8" group-title="ECUADOR", ECUADOR TV| HD
-https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
+https://samson.streamerr.co:8081/akira/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
@@ -708,7 +708,7 @@ https://stream.zeno.fm/64nxbrzhsuhvv
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
 #EXTINF:-237 tvg-logo="https://www.vhv.rs/dpng/d/607-6075841_tv-azteca-clic-logo-tv-azteca-png-transparent.png" group-title="ECUADOR" , Cilc tv
-https://stream.ads.ottera.tv/cl/230907cjt4hsm7d38sgnb0ps9g/854x480_1355200_2_f.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1695619344&id=10405&ip=45.224.152.74&override_expiration=1500&sign=9%2BBDfDcGJSblGBL0tMEcR3SEQOhYPntEptel4SGWo0E%3D
 
 #EXTINF:-238 group-title="VARIOS" , Luna Tv Canal 53
 https://streaming.ath.cx:1936/lunatv/lunatv/chunklist_w202941629.m3u8
@@ -743,8 +743,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-250 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/pequeradio-tv-en-vivo-2317.jpg" group-title="INFANTIL",PEQUERADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://lc.cx/NZAldC" group-title="RELIGION",FAMILIA TV
+#EXTINF:-1 tvg-logo="https://lc.cx/NZAldC" group-title="RELIGIÓN",FAMILIA TV
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="ESPAÑA",13.TV
@@ -1003,27 +1002,27 @@ http://tv.teleclub.xyz/hls/welcome.m3u8
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="SERVIDOR 2", Disney Channel 
-http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
+https://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="SERVIDOR 2", Disney Jr 
-http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
+https://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="SERVIDOR 2", Discovery Kids 
-http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
+https://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="SERVIDOR 2", Nick 
-http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
+https://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="SERVIDOR 2", Nick Jr 
-http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
+https://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="SERVIDOR 2", Tooncast 
-http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+https://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="SERVIDOR 2", Bitme
-http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+https://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="SERVIDOR2", BOLIVISION | HD
+#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="SERVIDOR 2", BOLIVISION | HD
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="SERVIDOR 2", Cartoonito 
@@ -1284,7 +1283,7 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="SERVIDOR 2", GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="SERVIDOR 2", GolPeru 
+#EXTINF:-1 tvg-logo="https://lc.cx/DWlyDI" group-title="SERVIDOR 2", Goltv Peru 
 http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="SERVIDOR 2", Directv 
@@ -1368,14 +1367,11 @@ http://tv.teleclub.xyz/envivo/Deportes/TNTSPORTS_BR/index.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/YjRC8H" group-title="SERVIDOR 2", Bein Sport | HD
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8 
 
-#EXTINF:-87 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c22fd7b9b6a6a5e704c6c/900" group-title="SERVIDOR 2", BEIN SPORTS
+#EXTINF:-87 tvg-logo="https://i.imgur.com/Q2xvbyg.png" group-title="SERVIDOR 2", BeinSports Ñ Extra 
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein Sports 
 http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2xvbyg.png" group-title="SERVIDOR 2", BeinSports Ñ Extra 
-http://tv.teleclub.xyz/envivo/Deportes/BEINSPORTS_EXTRA/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://lc.cx/_ujnYR" group-title="SERVIDOR 2", TNT Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8 
@@ -4109,10 +4105,3 @@ http://208.88.245.81/nuevo/a.millones.de.kilometros.dual2023.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg",Retribución contra reloj 
 http://208.88.245.81/nuevo/retribution.contrareloj.dual2023.mkv
-
-
-
-
-
-
-
