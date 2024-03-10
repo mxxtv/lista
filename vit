@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 horas NOCH
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwPvASOl5oNbzg7ILcXnKcWqqXjBGVMdeEJRLk79V2qP)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9Jp52ifYrgWVgN9VaRe9WOoW3QMlYPQ87yCTfiVjYK6)/dm/3/x7wijay/d/live-2.m3u8
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
@@ -105,7 +105,7 @@ https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-bei
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-36 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2015/09/movistar-plus-bein-sports.jpg" group-title="DEPORTES",MOVISTAR BEIN SPORT
-https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 
 #EXTINF:-37 tvg-logo="https://lc.cx/VRnIpE" group-title="NIÑOS Y ADOLECENTES", Planeta kids
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
@@ -144,7 +144,7 @@ https://scl.edge.grupoz.cl/music/live/chunklist_w262960935.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-49 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="COSTA RICA",  NEX TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream3/chunks.m3u8
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-50 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="CINE Y SERIES",  Movie tv
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -309,7 +309,7 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w400746241.m3u8
 
 #EXTINF:-104 tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="COSTA RICA", TELERED
-https://video20.klm99.com:3558/hybrid/play.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/telesitemacr/playlist.m3u8
 
 #EXTINF:-105 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -455,8 +455,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ESPAÑA", BBC Drama | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-153 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-betis-tv-872.png" group-title="DEPORTES",Betis Sport | HD
-https://betistv-live.flumotion.com/9BdNbP1lCu0tA-cIGm1keA/1705341629/betistv/live_all/playlist.m3u8
+#EXTINF:-153 tvg-shift="0" group-title="DEPORTES",CANAL DE GOLF
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
 
 #EXTINF:-154 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES", PLUTO TV PELEAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
@@ -513,7 +513,7 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
 
 #EXTINF:-172 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="COSTA RICA", Telered | SD
-https://video20.klm99.com:3558/hybrid/play.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/telesitemacr/playlist.m3u8
 
 #EXTINF:-173 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="COSTA RICA", Teleuno | SD
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/chunklist_w1278055281.m3u8
@@ -1157,7 +1157,7 @@ https://seo.tv.bo/tv/SEO1HD.m3u8
 https://tv.portalexpress.es:3182/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQF9NYp.png" group-title="COSTA RICA" , MeganetTV.cr
-https://250weu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
+https://video20.klm99.com:3401/live/megahitslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://culturavenezuela.com/wp-content/uploads/2021/07/cropped-Cierre-Alfa-SE.00_00_04_25.Imagen-fija003-150x150.png" group-title="VENEZUELA" , CulturaVenezuela
 https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
@@ -1438,17 +1438,26 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT SERIES LAT
 http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO SIGNATURE LAT
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Moy3tTzOeCPDPGVMdMFU64qRocSPWbsHBupbvg36.jpg"group-title="NIÑOS Y ADOLECENTES",Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1  group-title="NIÑOS Y ADOLECENTES",  DISCOVERY KIDS
 http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pypul3s.png"  group-title="DEPORTES",GOL TV LAT
+#EXTINF:-1  group-title="DEPORTES",Santa fe canal en vivo
+https://playback2.akamaized.net/streams/22636012_8242619_lsi1dvhu3lse9wqy1z1_1/master.m3u8?dw=14400&hdnts=exp=1709847453~acl=/streams/22636012_8242619_lsi1dvhu3lse9wqy1z1_1/master.m3u8*~hmac=6fb54417fc6ddb7a53a15ecf00717b8df91d07df9ebbbd43f4343c8e992bfde2
+
+#EXTINF:-1  group-title="DEPORTES",  Deporte 13 chile
+https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/1e8bf400-7fc6-4229-93f4-9ff92dad5e04:DLS/master.m3u8
+
+#EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png"  group-title="DEPORTES",GOL TV LAT
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",GOL TV 
+#EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="DEPORTES",GOL TV 
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ACCN ESPN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ESPN DEPORTES
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
@@ -1462,14 +1471,20 @@ http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
 
+#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY LAT
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO PLUS LAT
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO SIGNATURE LAT
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",FX LAT
 http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",SONY LAT
 http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY LAT
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DOCUMENTALES",NAT GEO LAT
 http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
@@ -1486,38 +1501,44 @@ http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
 #EXTINF:-1 group-title="NIÑOS Y ADOLECENTES" tvg-logo="",El Reino Infantil
 https://linear-524.frequency.stream/mt/studio/524/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",La Rosa de Guadalupe
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Rosa de Guadalupe
 https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Vecinos
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Vecinos
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Amor Bravio
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Amor Bravio
 https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Como Dice el Dicho
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Usurpadora
+https://linear-448.frequency.stream/mt/studio/448/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Como Dice el Dicho
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Teresa
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Teresa
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",La Fuerza del Destino
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Fuerza del Destino
 https://linear-480.frequency.stream/mt/studio/480/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Lazos de Amor
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Lazos de Amor
 https://linear-481.frequency.stream/mt/studio/481/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Mi Corazón es Tuyo
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Mi Corazón es Tuyo
 https://linear-482.frequency.stream/mt/studio/482/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",La Familia P. Luche
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Familia P. Luche
 https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Una Familia de Diez
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Una Familia de Diez
 https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Nosotros los Guapos
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Nosotros los Guapos
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MAXDFULL ᵸᴰ",Tlnovelas (576p)
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
@@ -1525,16 +1546,22 @@ https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="DEPORTES", TUDN MX
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHHtinvFuptkCNv1xsLheZy1w6mH04kKnTw&usqp=CAU"group-title="DEPORTES" tvg-logo="",Lo Mejor de Liga MX (México / Estados Unidos)
+https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES", ESPN 2 | HD
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
+#EXTINF:-1 tvg-shift="0"tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES",ESPN SUR2
+http://181.78.105.146:2000/play/a063/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="DEPORTES", ESPN 3
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="DEPORTES",FOX SPORTS HD
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sportsᵸᴰ (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="DEPORTES",FOX SPORTS HD
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="DEPORTES",FOX SPORTS 2 HD
@@ -1546,6 +1573,8 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 #EXTINF:-1 tvg-shift="0" group-title="DEPORTES",UFC
 http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
 
+#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",WINSPORT
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -1553,14 +1582,27 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" ,Canal 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 LAG" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5 .png" ,CANAL 6 LAG
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5 .png" ,Canal 6 GDL
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5 .png" ,Canal 6 PUE
+http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+#EXTINF:-1 tvg-id="(sin tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5 .png" ,Canal 6 GTO
+http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",Canal 10 Cancún (720p) [No 24/7]
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",Canal 10 Cancún (360p)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XHTTGTDT.mx",Canal 10 Chiapas (720p)
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Bajio.mx",Canal 13 Bajío (720p) [No 24/7]
 https://dbdfj5y8nz2u4.cloudfront.net/c13bajio/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -1599,13 +1641,7 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal44.mx",Canal 44 Chihuahua (720p) [No 24/7]
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal47TV.mx",Canal 47 TV Puerto Escondido (480p)
-https://stream.oursnetworktv.com/latin/encoder28/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XEJTDT.mx",Canal 50.1 Juárez (XEJ-TDT) (614p)
-https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjQgMTA6NDI6NTMgUE0maGFzaF92YWx1ZT1HZnpON0MvZitnN3ZFWnZSVzRpNG93PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-id="DePeliculaLatinAmerica.mx"group-title="MEXICO",De Película (576p)
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
@@ -1624,12 +1660,6 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EclipseTV.mx",Eclipse TV (720p)
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XHFGLTDT.mx",El 15 TV (720p)
-https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElNu9ve.mx",El NU9VE (1080p)
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNu9ve.mx",El NU9VE (1080p)
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
@@ -1665,46 +1695,38 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LosAltosTelevision.mx",Los Altos Televisión (720p)
-https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1335144447.m3u8
 
 #EXTINF:-1 tvg-id="MariaVision.mx",María Visión México (360p) [No 24/7]
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #EXTINF:-1 tvg-id="Mayavision.mx",Mayavisión (720p)
 https://www.amixtv.com:8081/mayavision/index.m3u8
+
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx",Meganoticias MX (1080p)
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="NPlus.mx",NMás (1080p)
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="NPlusMedia.mx",NMás Media (1080p)
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="NPlusMedia.mx",NMás Media (1080p)
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="NNVeracruz.mx",NNVeracruz (640p)
 https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 
 #EXTINF:-1 tvg-id="NRTMexicoRegionCentro.mx",NRT México Región Centro (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NRTMexicoRegiónSureste.mx",NRT México Región Sureste (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NueveTV.mx",Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-#EXTINF:-1 tvg-id="XEIPNTDT.mx",Once México (1080p)
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Paralelo20650AM.mx",Paralelo 20 650 AM (1080p) [No 24/7]
-https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx",Presumiendo México (720p)
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QuieroTV.mx",Quiero TV (1080p)
-https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarTV71.mx",Radar TV 71 (480p) [No 24/7]
-https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionBudokan.mx",Radio y Televisión Budokan (352p)
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 
@@ -1716,119 +1738,146 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",RCG TV (Timeshifted -2 ​​Horas) (432p)
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1 tvg-id="RomanzaPlusAfrica.ke",Romanza+ África (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTG.mx",RTG (720p)
 https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XHUNESTDT.mx",Señal España (XHUNES-TDT) (720p)
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
 #EXTINF:-1 tvg-id="XHPBZCTDT1.mx",SET Televisión Canal 26.1 (720p) [No 24/7]
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XHPBZCTDT2.mx",SET Televisión Canal 26.2 (720p) [No 24/7]
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1 tvg-id="SintesisTV.mx",Síntesis TV (480p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+
+
 #EXTINF:-1 tvg-id="SIPSETV81.mx",SIPSE TV 8.1 (1080p) [No 24/7]
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
+
 #EXTINF:-1 tvg-id="SIPSETVCUN81.mx",SIPSE TVCUN 8.1 (1080p) [No 24/7]
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-
-#EXTINF:-1 tvg-id="TELE4Ojocaliente.mx",TELE 4 Ojocaliente (720p)
-https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx",TeleFórmula (720p) 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="TeleHit.mx",Telehit (576p)
+
+#EXTINF:-1 tvg-id="TeleHit.mx"group-title="MUSICA",Telehit (576p)
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TelehitMusica.mx",Telehit Música (576p)
+
+#EXTINF:-1 tvg-id="TelehitMusica.mx"group-title="MUSICA",Telehit Música (576p)
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TelemarCampeche.mx",Telemar Campeche (720p) [No 24/7]
 https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XEWHTDT.mx",Telemax (XEWH-TDT) (1080p)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleplaySureste.mx",Teleplay Sureste (720p)
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleplaySureste.mx",Teleplay Sureste (360p)
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Teleritmo.mx",Teleritmo (720p) [No 24/7]
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx",Tlaxcala Televisión (360p) [No 24/7]
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MEXICO",Tlnovelas (576p)
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MAXFULL ᵸᴰ",Tlnovelas (576p)
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="TVLobo.mx",TV Lobo Durango (720p)
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMarLaPaz.mx",TV Mar La Paz (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMarLosCabos.mx",TV Mar Los Cabos (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx",TV Mar Puerto Vallarta (1080p)
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMigrante.mx",TV Migrante (720p)
-https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="XHMNLTDT.mx",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSanLuis.mx",TV San Luis (720p) [No 24/7]
-https://stream.oursnetworktv.com/latin/sanluistv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVUJAT.mx",TV UJAT (XHUJAT-TDT) (720p) [No 24/7]
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVMas.mx",TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+
 #EXTINF:-1 tvg-id="XHGVTDT.mx",TVMÁS (XHGV-TDT) (360p) [No 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPCuliacan.mx",TVP Culiacán (720p) [No 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPLosMochis.mx",TVP Los Mochis (720p) [No 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPMazatlan.mx",TVP Mazatlán (720p) [No 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPObregon.mx",TVP Obregón (720p) [No 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVT.mx",TVT Tabasco (720p) [No 24/7]
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
-#EXTINF:-1 tvg-id="UDGTV.mx",UDG TV Canal 44 (720p) [No 24/7]
-https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8
+
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx",Ultra TV Puebla (720p) [No 24/7]
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UMTV.mx",UMTV (1080p) [No 24/7]
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Unicable.mx",Unicable (576p)
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unicable.mx"group-title="MEXICO",Unicable (576p)
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx"group-title="MEXICO",Univision Panregional (576p)
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx",Univision Panregional (576p)
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VBMediaTV.mx",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+
 #EXTINF:-1 tvg-id="VeracruzMultimediosTV.mx",Veracruz Multimedios TV (720p)
 https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VisionTelevision.mx",Visión Televisión (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
 #EXTINF:-1 tvg-id="ViXJajaja.mx",ViX Jajaja (1080p)
 https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ViXJajaja.mx",ViX Jajaja (1080p)
 https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ViXJajaja.mx",ViX Jajaja (1080p)
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ViXParejas.mx",ViX Parejas (1080p)
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="XHKGTDT.mx",XHKG TV Nayarit (1080p)
-https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
-#EXTINF:-1 tvg-id="XtiNetwork.mx",Red Xti (288p)
-https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bandamax.mx",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ConectaTV.mx",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
 #EXTINF:-1 tvg-id="RTQQuerétaro.mx",RTQ Querétaro
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx",Canal Catorce
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+
 #EXTINF:-1 tvg-id="ZAZ.mx",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
@@ -1841,6 +1890,7 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Trivision36.cr",Anexión TV Canal 36 (1080p)
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
@@ -1867,10 +1917,13 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.cr",Canal 11 (720p) [No 24/7]
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVN14.cr",Canal 14 San Carlos (720p) [No 24/7]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal17TVNosara.cr",Canal 17 TV Nosara (720p)
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CaribeTVCR.cr",Caribe TV CR (720p)
 https://rpn3.bozztv.com/ssh101/ssh101/sinart/playlist.m3u8
 
@@ -1892,39 +1945,51 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr"group-title="CINE Y SERIES",Garabito TV (720p)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GuatusoTV.cr",Guatuso TV (720p)
+#EXTINF:-1 tvg-id="GuatusoTV.cr"group-title="CINE Y SERIES",Guatuso TV (720p)
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 
 #EXTINF:-1 tvg-id="TicaVision.cr",HBTV TicaVisión (1080p)
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IQChannel.cr",IQ Channel (720p)
 https://rtmp.info/iqtv/envivo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LimonTV.cr",Limón TV (1080p) [No 24/7]
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LosSantosTV.cr",Los Santos TV (720p)
 https://lstv.duckdns.org:449/hls/lstv.m3u8
+
 #EXTINF:-1 tvg-id="LuzNacienteTV.cr",Luz Naciente TV (720p)
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
-#EXTINF:-1 tvg-id="MasCiclismoTV.cr",Más Ciclismo TV (720p)
-https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasCiclismoTV.cr"group-title="DEPORTES",Más Ciclismo TV (720p)
+https://video20.klm99.com:3401/live/megahitslive.m3u8
+
 #EXTINF:-1 tvg-id="MasCiclismoTV.cr",Más Ciclismo TV (720p)
 https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MeganetTV.cr",Meganet TV (720p)
-https://250weu.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
+https://video20.klm99.com:3880/live/megadeporteslive.m3u8
+
 #EXTINF:-1 tvg-id="MetaVersusCR.cr",MetaVersus CR (480p)
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 
 #EXTINF:-1 tvg-id="NicoyaTV.cr",Nicoya TV (720p) [No 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr",Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
+
 #EXTINF:-1 tvg-id="OldiesHits.cr",Éxitos antiguos (360p)
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QuinceUCR.cr",Quince UCR (720p) [No 24/7]
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioPuertoTV.cr",Radio Puerto TV (720p)
 https://cloudvideo.servers10.com:8081/8256/index.m3u8
+
 #EXTINF:-1 tvg-id="RetroTVPalmares.cr",Retro TV Palmarés (360p) [No 24/7]
 https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr",Retrox TV (720p)
@@ -1932,18 +1997,25 @@ https://rpn3.bozztv.com/ssh101/ssh101/retroxtvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SanJoseTV.cr",San José TV (1080p)
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SanVitoTelevision.cr",San Vito Televisión (720p)
-https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SarapiquiTV.cr",Sarapiqui TV (720p) [No 24/7]
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SarapiquiTV.cr",Sarapiqui TV (720p) [No 24/7]
 https://lstv.duckdns.org:449/hls/stv.m3u8
+
 #EXTINF:-1 tvg-id="SOYPlanchaTV.cr",SOY Plancha TV (720p)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TDtv.cr",TDtv (720p)
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
 #EXTINF:-1 tvg-id="TeleUno.cr",Tele Uno (720p) [No 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleUno.cr",Tele Uno (720p) [No 24/7]
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
@@ -1952,31 +2024,37 @@ https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesistema.cr",Telesistema (480p) [No 24/7]
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr",TeleSUR Costa Rica (720p) [No 24/7]
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="TVCurre.cr",TV Curré (720p) [No 24/7]
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSurCanal9.cr",TV Sur Canal 9 (620p) [No 24/7]
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVSurCanal14.cr",TV Sur Canal 14 (1080p)
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVPlus.cr",TV+ Canal 54 (480p)
 https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
-#EXTINF:-1 tvg-id="UrbanoTV.cr",Urbano TV (720p)
+
+#EXTINF:-1 tvg-id="UrbanoTV.cr"group-title="MUSICA",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VideoTourChannel.cr",Canal de Video Tour (480p) [No 24/7]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VintageMusic.cr",Música Vintage (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VMLatino.cr",VM Latino (720p) [No 24/7]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr",VoiceOver Radio TV (720p)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
 #EXTINF:-1 tvg-id="XpressoJovenRadio.cr",Xpresso Joven Radio (720p)
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonaMusicTV.cr",Zona Música TV (720p)
-https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ZurquiTV.cr",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
@@ -1986,13 +2064,16 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="AntaresTelevision.pe",Antares Televisión (720p) [No 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (720p) [No 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
+
 #EXTINF:-1 tvg-id="ATMTelevision.pe",ATM Televisión (720p)
 https://v4.tustreaming.cl/atmtv/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe",ATV (720p) [No 24/7]
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATVSur.pe",ATV Sur (720p) [No 24/7]
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
@@ -2002,19 +2083,15 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe",Auténtica Televisión (720p) [No 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBellaAsuncion.pe",Bella Asunción TV (720p) [No 24/7]
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe"group-title="CINE Y SERIES",Bella Asunción TV (720p) [No 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
-
-
-#EXTINF:-1 tvg-id="BHTV.pe",BHTV (720p) [No 24/7]
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe",Canal 8 Catacaos (720p) [No 24/7]
 https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal33Ayacucho.pe",Canal 33 Ayacucho (360p)
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+
 #EXTINF:-1 tvg-id="CanalIPe.pe",Canal IPe (1080p)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 
@@ -2033,29 +2110,37 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-id="CRTelevision.pe",CR Televisión Moyobamba (720p) [No 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
+
 #EXTINF:-1 tvg-id="CreoTV.pe",CreoTV (720p) [No 24/7]
 https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+
 #EXTINF:-1 tvg-id="Cultura24.pe",Cultura 24 (720p) [No 24/7]
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
 #EXTINF:-1 tvg-id="CumoTV.pe",Cumo TV (720p) [No 24/7]
 https://live.obslivestream.com/cumo/index.m3u8
+
 #EXTINF:-1 tvg-id="CUTERVOTV.pe",CUTERVO TV
 https://mc.servidor.stream:19360/8256/8256.m3u8
+
 #EXTINF:-1 tvg-id="DiasporaTV.pe",Diáspora TV (720p) [No 24/7]
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+
 #EXTINF:-1 tvg-id="DMJ.pe",DMJ Cuzco (720p) [No 24/7]
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DobleAA.pe",Doble AA (1080p)
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+
 #EXTINF:-1 tvg-id="DobleCTelevision.pe",Doble C Televisión [No 24/7]
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
 #EXTINF:-1 tvg-id="ExitosaTV.pe",Exitosa (720p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GeniosTV.pe",Genios TV (720p) [No 24/7]
 https://live.obslivestream.com/geniostvmux/index.m3u8
+
 #EXTINF:-1 tvg-id="DiarioHechicera.pe",Hechicera TV (720p)
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hoynet.pe",Hoynet (360p)
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
@@ -2064,14 +2149,17 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe",Impacto Televisión (360p) [No 24/7]
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
 #EXTINF:-1 tvg-id="IntuitivaTV.pe",Intuitiva TV (720p)
 https://video2.lhdserver.es/cableperu/live.m3u8
+
 #EXTINF:-1 tvg-id="JN19.pe",JN19 (1080p) [No 24/7]
 https://servilive.com:3028/live/jntv19live.m3u8
+
 #EXTINF:-1 tvg-id="",JN19 TV2 (1080p) [No 24 horas al día, 7 días a la semana]
 https://servilive.com:3224/live/jn19tv2live.m3u8
 
-#EXTINF:-1 tvg-id="Karibena.pe",Karibeña (720p) [No 24/7]
+#EXTINF:-1 tvg-id="Karibena.pe"group-title="PERU",Karibeña (720p) [No 24/7]
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="La5ta.pe",La 5ta
@@ -2083,30 +2171,33 @@ https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
 #EXTINF:-1 tvg-id="Latina.pe",Latina (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe",Latina (720p) 
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-
 #EXTINF:-1 tvg-id="LimaLive.pe",LimaLive (720p) [No 24/7]
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="MaticesTV.pe",MaticesTV (720p) [No 24/7]
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KsYg7B.png"group-title="ECUADOR",MaticesTV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KsYg7B.png"group-title="ECUADOR", MaticesTV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe",Mega TV Arequipa (720p) [No 24/7]
 https://hls.servidor.stream/storage/megatv.m3u8
+
 #EXTINF:-1 tvg-id="MegaTVJaen.pe",Mega TV Jaen (720p) [No 24/7]
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-id="MielTV.pe",Miel TV (720p) [No 24/7]
+
+#EXTINF:-1 tvg-id="MielTV.pe"group-title="PERU",Miel TV (720p) [No 24/7]
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
 #EXTINF:-1 tvg-id="MilenialTV.pe",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
+
 #EXTINF:-1 tvg-id="Millenium109FM.pe",Millenium 109 FM (720p) [No 24/7]
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
 #EXTINF:-1 tvg-id="MINEDUIPTV1.pe",MINEDU IPTV 1 (320p) [No 24/7]
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MINEDUIPTV2.pe",MINEDU IPTV 2 (320p) [No 24/7]
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
@@ -2118,175 +2209,222 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 
 #EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [No 24/7]
 https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [No 24/7]
-https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (1080p) [No 24/7]
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe",Monterrico TV (360p) [No 24/7]
-https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8
+
 #EXTINF:-1 tvg-id="NacionalTvPeru.pe",Nacional Tv Perú
 https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+
 #EXTINF:-1 tvg-id="Nativa.pe",Nativa (720p) [No 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Nativa.pe",Nativa (720p) [No 24/7]
 https://servilive.com:3449/live/mlecaroslive.m3u8
+
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe",Nativa TV Satipo (720p) [No 24/7]
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
 #EXTINF:-1 tvg-id="NazarenasTV.pe",Nazarenas TV (720p) [No 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe",NorSelva RTV (720p) [No 24/7]
 https://live.obslivestream.com/norselvatv/index.m3u8
+
 #EXTINF:-1 tvg-id="NovaTVStar.pe",Nova TV Star (360p) [No 24/7]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
 #EXTINF:-1 tvg-id="OasisRTV.pe",Oasis RTV (720p) [No 24/7]
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 tvg-id="OKTeVe.pe",OK TeVe (720p) [No 24/7]
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OndaDigital.pe",Onda Digital (720p) [No 24/7]
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OvacionTV.pe",Ovacion TV (720p) [No 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OvacionTV.pe",Ovación TV (720p) [No 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PanamericanaTV.pe",Panamericana TV (1080p) [No 24/7]
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+
 #EXTINF:-1 tvg-id="",Perú Visual TV
 https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioPeruanaTV.pe",RadioPeruana TV
 https://vdo.grupolimalive.com:3399/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="PlaneaTV.pe",Planea TV
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+
 #EXTINF:-1 tvg-id="PlanetaTV.pe",Planeta TV (720p) [No 24/7]
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="Primavera15.pe",Primavera 15 (720p)
-https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="QTTelevision.pe",QT Televisión (720p) [No 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
+
 #EXTINF:-1 tvg-id="QuassarTV.pe",Quassar TV (720p)
 https://gnstreammedia.com:19360/4000/4000.m3u8
+
 #EXTINF:-1 tvg-id="RadioElPueblo.pe",Radio El Pueblo (480p)
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe",Radio Onda Digital
 https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe",Radio San Borja TV (720p) [No 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioTropical.pe",Radio Tropical Tarapoto (480p) [No 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
 #EXTINF:-1 tvg-id="RadioTVTendencias.pe",Radio TV Tendencias (1080p) [No 24/7]
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="RadioInkaTV.pe",RadioInka (1080p) [No 24/7]
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="RCR.pe",Red de Comunicación Regional (RCR) (720p) [No 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RegiónTVCallao.pe",Región TV Callao (480p) [No 24/7]
 https://servilive.com:3757/live/regiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="RNTelevision.pe",RN Televisión (720p) [No 24/7]
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
 #EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe",RTV Total (Yurimaguas) (480p) [No 24/7]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-id="RWTelevisionTarapoto.pe",RW Televisión Tarapoto (720p) [No 24/7]
-https://live.obslivestream.com/rwtv/index.m3u8
+
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe",SanjuaneraTV (720p) [No 24/7]
 https://live.obslivestream.com/sanjuanera/index.m3u8
+
 #EXTINF:-1 tvg-id="SenalPeruTV.pe",Señal Perú TV (404p) [No 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Sistema1.pe",Sistema 1 [Geobloqueado]
-https://inliveserver.com:1936/9514/9514/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sistema1.pe",Sistema 1
+https://inliveserver.com:1936/9506/9506/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SolTV.pe",Sol Televisión (720p)
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SuperCanal.pe",Super Canal Yurimaguas (720p) [No 24/7]
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.pe",Teleamazonas Canal 11 (480p)
-https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleamazonas.pe"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png",Teleamazonas Canal 11 (480p)
+https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
+
 #EXTINF:-1 tvg-id="Telecanal.pe",Telecanal
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe",Telecolor Yurimaguas (720p) [No 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
+
 #EXTINF:-1 tvg-id="Telelima.pe",Telelima
 https://mserver.latincable.net/TeleLima/index.m3u8
+
 #EXTINF:-1 tvg-id="Teleselva.pe",Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
 #EXTINF:-1 tvg-id="TelesurCamaña.pe",Telesur Camaná (720p)
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
 #EXTINF:-1 tvg-id="TelesurIlo.pe",Telesur Ilo (720p) [No 24/7]
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
 #EXTINF:-1 tvg-id="TelesurMollendo.pe",Telesur Mollendo (240p) [No 24/7]
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+
 #EXTINF:-1 tvg-id="TelesurMoquegua.pe",Telesur Moquegua (360p) [No 24/7]
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+
 #EXTINF:-1 tvg-id="TelesurTacna.pe",Telesur Tacna (720p) [No 24/7]
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe",Televisión Tarapoto (720p) [No 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TopTV.pe",Top FM TV (240p) [No 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="TopLatinoTV.pe",Top TV latina (404p)
+
+#EXTINF:-1 tvg-id="TopLatinoTV.pe",Top TV latino (404p)
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Trivu.pe",Trivu (1080p) [No 24/7]
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
+
 #EXTINF:-1 tvg-id="TropicalTV.pe",Tropical TV (Puerto Maldonado) (720p) [No 24/7]
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TumpisTV.pe",Tumpis TV (720p)
 https://servilive.com:3531/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe",Turbo Mix Radio TV (360p) [No 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
 #EXTINF:-1 tvg-id="TVCosmos.pe",TV Cosmos (720p) [No 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFacesPeru.pe",TV Faces Online (360p) [No 24/7]
-https://tvdatta.com:3211/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="TVPalmeras.pe",TV Palmeras (1080p)
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+
 #EXTINF:-1 tvg-id="TVPeru.pe",TV Perú
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe",TV Perú Internacional (1080p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe",TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
 #EXTINF:-1 tvg-id="TVPeruanisima.pe",TV Peruanísima (720p) [No 24/7]
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe",TV Sistemas Cuzco (360p) [No 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVenLinea.pe",TVenLinea (720p) [No 24/7]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
 #EXTINF:-1 tvg-id="TVUNO.pe",TVUNO (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="UnifeTV.pe",Unife TV (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Unitel.pe",Unitel (Huancayo) (720p) [No 24/7]
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
 #EXTINF:-1 tvg-id="UranioTV.pe",Uranio TV (Yurimaguas) (720p) [No 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
+
 #EXTINF:-1 tvg-id="USILTV.pe",USIL TV (720p) [No 24/7]
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
+
 #EXTINF:-1 tvg-id="USMPTV.pe",USMPTV (720p) [No 24/7]
 https://streamusmptv.ddns.net/live/stream.m3u8
+
 #EXTINF:-1 tvg-id="VamisaTV.pe",Vamisa TV (480p)
 https://inliveserver.com:1936/10044/10044/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ViaAltomayo.pe",Vía Altomayo (720p) [No 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
 #EXTINF:-1 tvg-id="ViaTelevision.pe",Vía Televisión (720P) [No 24/7]
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-id="VNP.pe",Visión Noticias Perú (VNP) (720p) [No 24/7]
-https://videoserver.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionSur.pe",Visión Sur TV (1080p) [No 24/7]
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="VisionTVMusica.pe",Visión TV Música (720p) [No 24/7]
-https://videoserver.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VivaTVYurimaguas.pe",Viva TV Yurimaguas (720p)
 https://live.obslivestream.com/vivatv/index.m3u8
+
 #EXTINF:-1 tvg-id="VNP.pe",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
 #EXTINF:-1 tvg-id="VZTV.pe",VZ TV (720p) [No 24/7]
 https://live.obslivestream.com/vztv/index.m3u8
+
 #EXTINF:-1 tvg-id="Wtv.pe",Wtv (720p) [No 24/7]
 https://live.obslivestream.com/wtv/index.m3u8
+
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe",X TV Chachapoyas (720p)
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
-#EXTINF:-1 tvg-id="",X TV Zona Película
-https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
+
 #EXTINF:-1 tvg-id="UcayalinadeTelevision.pe",Ucayalina de Televisión [No 24/7]
 https://video.agenciastreaming.com:3959/live/utvlive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde https://teleclub.xyz/activar 
 http://tv.teleclub.xyz/hls/welcome.m3u8
