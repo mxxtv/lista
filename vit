@@ -3,7 +3,7 @@
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(j8j-cyn-mYJet0Prw6q-APQDTItCOZcHjhitEu7dfraoZzyCGcpomeVdX3QH_TUp_6mxHaAefxHY5dlf8hIWDjzz1bkSmEMx6arYVEGUJuc)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(vDFcokQd-k_1_kqCHgSFR4HzwhmEL2tQ-alokXi_244eJmCTxiocCB9QzeN7Ke310aSVQXvgcVprC56XHeUQB3FY9x0if8jg5XMIZNu3jNk)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -165,7 +165,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-56 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="COSTA RICA", REPRETEL 11 | HD
-https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-57 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", Ecuavisa QUITO
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
@@ -174,7 +174,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8
 
 #EXTINF:-59 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png?resize=696%2C392&amp;ssl=1" group-title="PARAGUAY", Unicanal | SD
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w1607047828.m3u8
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
 #EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="NIÑOS Y ADOLECENTES", Toon Goggles | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&avod=1&coppa=1&is_lat=1&dnt=1&td=6&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252Fapp&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1702592284&id=266202&ip=45.224.152.74&override_expiration=1500&sign=dNYylJhE%2Bo5IkPLB1HdvPE27Yx47nf1jtGp3UNeNeu4%3D
@@ -230,8 +230,8 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-77 tvg-shift="-3" tvg-logo="https://lc.cx/gBjIZ1"  group-title="MEXICO",AZ Corazon 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
-#EXTINF:-78 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46140fd597ed896d58f12c7e794d5f06.webp" group-title="PARAGUAY",Jazmín Tv En Vivo
-https://tvdatta.com:3957/stream/play.m3u8
+#EXTINF:-78 group-title="ECUADOR" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/10045.v12.png",538 RADIO
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
 #EXTINF:-79 tvg-id="Canal 10 CHiapas.mx" tvg-name="Canal 10 Chiapas (MX)" tvg-logo="http://www.rtq.mx/wp-content/uploads/2022/04/RTQ-logo-blanco-1.jpg" group-title="MEXICO", CANAL 10 RTQ (MX)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w463973390.m3u8
@@ -309,7 +309,7 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w400746241.m3u8
 
 #EXTINF:-104 tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="COSTA RICA", TELERED
-https://rpn3.bozztv.com/ssh101/ssh101/telesitemacr/playlist.m3u8
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 
 #EXTINF:-105 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -402,7 +402,7 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.postimg.cc/8C2nTwf0/ecutv.png" group-title="ECUADOR", ECUADOR TV| HD
-https://samson.streamerr.co:8081/akira/index.m3u8
+https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
@@ -414,7 +414,7 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1379090887.m3u8
 
 #EXTINF:-139 group-title="COSTA RICA", REPRETEL 2 | HD
-https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u88
 
 #EXTINF:-140 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
@@ -513,7 +513,7 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
 
 #EXTINF:-172 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="COSTA RICA", Telered | SD
-https://rpn3.bozztv.com/ssh101/ssh101/telesitemacr/playlist.m3u8
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 
 #EXTINF:-173 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="COSTA RICA", Teleuno | SD
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/chunklist_w1278055281.m3u8
@@ -672,7 +672,7 @@ https://panel.dattalive.com/8250/8250/chunklist_w1439458226.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-225 tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="PARAGUAY", UNICANAL TV
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=ad2155e52e17f5816865169aada270a610e9d60561d505407556a65c396bc8b7&amp;exp=1682558001
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8
 
 #EXTINF:-226 tvg-logo="https://mi-television.com/img/imagen-final-2_orig.png" group-title="MUSICA" , MI TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
@@ -931,13 +931,13 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
 #EXTINF:-311 group-title="DEPORTES", PLUTO TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 
-#EXTINF:-309 group-title="CINE Y SERIES", BUTACA TV
+#EXTINF:-312 group-title="CINE Y SERIES", BUTACA TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-64f0dad7c2bc9b9001d46ea8.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=qEvQAkRpahrzFqfxHTs1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5Ym8Xk.jpg" group-title="ECUADOR", RTV NARANJAL
+#EXTINF:-313tvg-logo="https://i.imgur.com/r5Ym8Xk.jpg" group-title="ECUADOR", RTV NARANJAL
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w682378380.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFBjTDa.png" group-title="ECUADOR", RADIO PRINCESA
+#EXTINF:-314 tvg-logo="https://i.imgur.com/KFBjTDa.png" group-title="ECUADOR", RADIO PRINCESA
 https://cp.panelchs.com:1936/8006/8006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png"group-title="ECUADOR", Sono Onda TV
@@ -993,9 +993,6 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-72 group-title="PERU" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/049c98cb65e2cb33606d01d8003f1750.webp",PERU CHANNEL
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-
-#EXTINF:-72 group-title="ECUADOR" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/10045.v12.png",538 RADIO
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
 #EXTINF:-72 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/57f0daffc09dfa7fd624f492e37cb66a.webp",La liga mas
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
@@ -1164,15 +1161,6 @@ https://master.tucableip.com/gigavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" group-title="BOLIVIA" , TDT roja
 https://master.tucableip.com/dtvsc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="ECUADOR" , SEO TV 1
-https://seo.tv.bo/tv/STV_1FHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="ECUADOR" , SEO TV pel
-https://seo.tv.bo/tv/STV4_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="DEPORTES" , SEO TV 5 DEPORTES
-https://seo.tv.bo/tv/Stv_5sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwNh4wb.png" group-title="ECUADOR" , Teledigital
 https://tv.portalexpress.es:3182/hybrid/play.m3u8
@@ -1475,29 +1463,22 @@ http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
-#EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/176.m3u8
-
-#EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY LAT
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/174.m3u8
-
-
 #EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="DOCUMENTALES",ANIMAL PLANET
 http://138.59.177.34:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="",Nature Time
 https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="COLOMBIA",CARACOL
+#EXTINF:-1  group-title="COLOMBIA",CARACOL
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/33.m3u8
 
 #EXTINF:-1 group-title="NIÑOS Y ADOLECENTES" tvg-logo="",El Reino Infantil
 https://linear-524.frequency.stream/mt/studio/524/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",La Rosa de Guadalupe ²⁴⁺⁷
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://images.justwatch.com/backdrop/131475161/s640/la-rosa-de-guadalupe/la-rosa-de-guadalupe",La Rosa de Guadalupe ²⁴⁺⁷
 https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Vecinos ²⁴⁺⁷
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png",Vecinos ²⁴⁺⁷
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Amor Bravio ²⁴⁺⁷
@@ -1751,7 +1732,7 @@ http://177.234.230.226:8010/play/a01z/index.m3u8
 http://190.90.154.73:8080/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="MX | Azteca Corazón" tvg-name="MX | Azteca Corazón" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/200px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="NOVELAS", 58 | Azteca Corazón
-http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
+https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="NOVELAS", 59 | Tlnovelas Latinoamérica
 http://bantel.iptvperu.tv:1935/transcoderip/TL_Novelas_t4/playlist.m3u8
@@ -2255,8 +2236,161 @@ https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
 #EXTINF:-1 tvg-id="EE.UU. | E Sports Max" tvg-name="EE.UU. | E Sports Max" tvg-logo="https://play-lh.googleusercontent.com/DeDOZbtJt_WwCe5SmLQoIt9zurIgnq7nOzZlGjanVAaDfnDRiK3v4JOF1jyYw5WU7MSx" group-title= "DEPORTES", 258 | Deportes Max
 http://bantel.iptvperu.tv:1935/bantel/esportsmax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PE | Mejor Música por Cable" tvg-name="PE | Mejor Música por Cable" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA", 259 | Mejor música por cable
-https://tv.godo.net.pe/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="CO | Mi Gente TV" tvg-name="CO | Mi Gente TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_mi-gente_m.png" group-title="MUSICA", 260 | Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+
+#EXTINF:-1 tvg-id="PY | E40 TV" tvg-name="PY | E40 TV" tvg-logo="https://estacion40.com.py/wp-content/uploads/2023/12/ logo-e40-verano-23-24.png" group-title="MUSICA", 261 | televisor e40
+http://177.234.230.226:8010/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Nick Music" tvg-name="EE.UU. | Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ NickMusic.svg/220px-NickMusic.svg.png" group-title="MUSICA", 262 | Nick Música
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ES | Lolly Kids" tvg-name="ES | Lolly Kids" tvg-logo="https://media.licdn.com/dms/image/C560BAQFdAU1qHO5HLw/company-logo_200_200/ 0/1572863101739?e=2147483647&v=beta&t=rCVG3SLF7zMjcfOfIScjaFkE1mHM4onFuIhlUhxB2Mk" group-title="MUSICA", 263 | Lolly Niños
+http://38.41.8.1:8000/play/a02n
+
+#EXTINF:-1 tvg-id="EE.UU. | MTV" tvg-name="EE.UU. | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV- 2021.svg/125px-MTV-2021.svg.png" group-title="MUSICA", 264 | mtv
+http://138.59.177.34:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="Estados Unidos | MTV 80s" tvg-name="Estados Unidos | MTV 80s" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/ xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="MUSICA Y REALIDADES", 265 | MTV años 80
+http://138.59.177.34:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | MTV 00s" tvg-name="EE.UU. | MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="MUSICA", 266 | MTV años 2000
+http://138.59.177.34:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Éxitos de MTV" tvg-name="EE.UU. | Éxitos de MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="MUSICA", 267 | Éxitos de MTV
+http://138.59.177.34:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | MTV Live" tvg-name="EE.UU. | MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" group-title="MUSICA", 268 | MTV en vivo
+http://138.59.177.34:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | HTV" tvg-name="EE.UU. | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo. svg/120px-Htv_logo.svg.png" group-title="MUSICA", 269 | TVH
+http://138.59.177.34:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="MX | Teleritmo" tvg-name="MX | Teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="MUSICA", 270 | Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5 TmWpO8utXYJqOKN&an=pantalla&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res =774x387&sin_cookies=false&listenerid=&dnt=true
+
+#EXTINF:-1 tvg-id="MX | Canal Concierto" tvg-name="MX | Canal Concierto" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/ Gallery_1157_7_147957.png/revision/latest/scale-to-width-down/250?cb=20150406181433&path-prefix=es" group-title="MUSICA", 271 | Canal de conciertos
+http://138.59.177.34:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-id="MX | Exa TV" tvg-name="MX | Exa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ Exa_TV_logo.svg/320px-Exa_TV_logo.svg.png" group-title="MUSICA", 272 | exa tv
+http://138.59.177.34:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | Telemúsica" tvg-name="CO | Telemúsica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title= "MUSICA Y REALIDADES", 273 | telemusica
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-id="CL | TV de música antigua" tvg-name="CL | TV de música antigua" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name= small" group-title="MUSICA", 274 | Televisión Música Antigua
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | Memorias TV" tvg-name="USA | Memorias TV" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped- logo-MEMORIAS-TV-png-1-224x96.png" group-title="MUSICA", 275 | Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ES | Ritmos Inolvidables TV" tvg-name="ES | Ritmos Inolvidables TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ webp-m/416d4bff6de22d61a3bc3a7b9e8aecb4.webp" group-title="MUSICA", 276 | Ritmos Inolvidables TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+
+#EXTINF:-1 tvg-id="PE | Retro Plus TV" tvg-name="PE | Retro Plus TV" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title= "MUSICA", 277 | Televisor retro plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CL | Televisor Retro Plus 2" tvg-name="CL | Televisor Retro Plus 2" tvg-logo="https://platcon.tv/img/p/1/1/ 8/118-large_default.jpg" group-title="MUSICA", 278 | Televisor Retro Plus 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CL | Retro Play TV" tvg-name="CL | Retro Play TV" tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300- pc0xffffff-pd" group-title="MUSICA", 279 | Televisor retro
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | Amordiscos TV" tvg-name="CO | Amordiscos TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp- l/e2a0874ed649b3ec721875b1892310d2.webp" group-title="MUSICA", 280 | Amordiscos TV
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Puro Romance TV" tvg-name="EE.UU. | Puro Romance TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ webp-m/9424bd94fdf0c4154dff529f4fdfa9b4.webp" group-title="MUSICA Y REALIDADES", 281 | Puro Romance TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1 tvg-id="CL | Radio Recuerdos Retro TV" tvg-name="CL | Radio Recuerdos Retro TV" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/ 03/cropped-logo_new_web10.png" group-title="MUSICA", 282 | Radio Recuerdos Retro TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CO | Canal Melodía" tvg-name="CO | Canal Melodía" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp- m/8686a630362f5b20fb1b670a9cfd8559.webp" group-title="MUSICA", 283 | Canal de melodía
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+
+#EXTINF:-1 tvg-id="PR | El Canal Retro" tvg-name="PR | El Canal Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ webp-m/6720c003e5adc507e1cd29a6af87ec4a.webp" group-title="MUSICA Y REALIDADES", 284 | El canal retro
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PE | Mejor latino" tvg-name="PE | Mejor latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ LOGO_TOP_LATINO_PNG_2017_-_500px.png/150px-LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="MUSICA", 285 | La mejor televisión latina
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DO | Fuego 40 El canal del pueblo" tvg-name="DO | Fuego 40 El canal del pueblo" tvg-logo="https://encrypted-tbn0.gstatic.com/ imágenes?q=tbn:ANd9GcTUsURmYDu5MKZt_f59t-k2RIegQiWUbRp4X4PTLhm9BXR2qWUfuuYrCMWbaxVb3lhRhLk&usqp=CAU" group-title="MUSICA", 286 | Fuego 40 TV
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PE | Karibeña TV" tvg-name="PE | Karibeña TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png" group-title="MUSICA", 287 | TV Karibeña
+http://bantel.iptvperu.tv:1935/transcoderip/karibena_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PE | TV Uno" tvg-name="PE | TV Uno" tvg-logo="https://pbs.twimg.com/media/GGfL6P_XcAAfZSB?format=png&name=240x240" group-title="MUSICA", En prueba | televisión uno
+https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NI | 88 Estéreo" tvg-name="NI | 88 Estéreo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/ 88Stereo-logoweb.png" group-title="MUSICA", 288 | 88 estéreo
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1412956051.m3u8
+
+#EXTINF:-1 tvg-id="CL | TV Pop" tvg-name="CL | TV Pop" tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title= "MUSICA", 289 | televisión popular
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Radio y TV Vallenato Internacional" tvg-name="EE.UU. | Radio y TV Vallenato Internacional" tvg-logo="https://cdn.colombia.com/canales/vallenato- internacional-radio-tv-3172.jpg" group-title="MUSICA", 290 | Vallenato Internacional Radio y TV
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DO | Visitas 360" tvg-name="DO | Visitas 360" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/ 1853-294x165-FFFFFF.jpg" group-title="MUSICA", 291 | Golpea 360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+
+#EXTINF:-1 tvg-id="MX | Visión Televisión" tvg-name="MX | Visión Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lPhyOcDjaoJ4wXoeZrt4AyE_xsEsSUm3SWH- m6fuPfWdxPqdSDtHUUp5J5KNY_3lP2A&usqp=CAU" group-title="MUSICA", 292 | Visión Televisión
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
+#EXTINF:-1 tvg-id="CL | Karavana TV" tvg-name="CL | Karavana TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/karavanatv- 1920-1080-300x169.jpg" group-title="MUSICA", 293 | karavana tv
+https://marine2.miplay.cl/karavanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KR | K Pop" tvg-name="KR | K Pop" tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSICA Y REALIDADES", 294 | k-pop
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NI | Megabox" tvg-name="NI | Megabox" tvg-logo="https://pbs.twimg.com/profile_images/1108879740893622273/naY8KsoE_400x400.jpg" group-title= "MUSICA", 295 | megacaja
+https://hdbox.chunklistv.com/live?stream=megabox
+
+#EXTINF:-1 tvg-id="MX | Bandamax" tvg-name="MX | Bandamax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo. svg/245px-Bandamax_logo.svg.png" group-title="MUSICA", 296 | bandamax
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MX | Telehit" tvg-name="MX | Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020. png/120px-Telehit_logo_2020.png" group-title="MUSICA", 297 | Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MX | Telehit Música" tvg-name="MX | Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/ Telehit_M%C3%BAsica_logo.png/145px-Telehit_M%C3%BAsica_logo.png" group-title="MUSICA", 298 | Telehit Música
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MX | Sin límites TV" tvg-name="MX | Sin límites TV" tvg-logo="https://www.claro.com.co/portal/recursos/co/ cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="MUSICA", 299 | El pecado limita la televisión
+http://45.228.232.219:16000/play/a0l5/index.m3u8
+
+#EXTINF:-1 tvg-id="CL | Zoom Atrás TV" tvg-name="CL | Zoom Atrás TV" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/ ZOOM-BACK-FONDO-2-300x169.jpg" group-title="MUSICA", 300 | Zoom Atrás TV
+https://panel.miplay.cl:8081/zoomback/index.m3u8
+
+#EXTINF:-1 tvg-id="ES | Cadena Elite" tvg-name="ES | Cadena Elite" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title= "MUSICA Y REALIDADES", 301 | Cadena Élite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="DO | Tu Música TV" tvg-name="DO | Tu Música TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ webp-m/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="MUSICA", 302 | Tu Musica TV
+https://vdo2.streamgato.us:3886/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Éxitos de Mimusica" tvg-name="EE.UU. | Éxitos" tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica -HITS.png" group-title="MUSICA", 303 | Éxitos de Mimúsica
+http://191.97.60.193:10000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="EE.UU. | Mimusica K-Pop" tvg-name="EE.UU. | Mimusica K-Pop" tvg-logo="https://pbs.twimg.com/media/GBfFnzsWIAANRaR?format= png&name=900x900" group-title="MUSICA", 304 | Mimúsica K-Pop
+http://191.97.60.193:10000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | Mimusica Salsa" tvg-name="USA | Mimusica Salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM- jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="MUSICA", 305 | Mimúsica Salsa
+http://177.234.230.226:8010/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | Mimusica Reggaeton" tvg-name="USA | Mimusica Reggaeton" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="MUSICA", 306 | Mimusica Reggaeton
+http://177.234.230.226:8010/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | Mimusica Perú" tvg-name="USA | Mimusica Perú" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo- Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="MUSICA", 307 | Mimusica Perú
+http://191.97.60.193:10000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="VE | Clásicos de Cadena Cover" tvg-name="VE | Clásicos de Cadena Cover" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ webp-m/11ac6717a72cf448fc022db8baef5427.webp" group-title="MUSICA", 308 | Clásicos de Cadena Cover
+https://stmv1.cnarlatam.com/ccovers/ccovers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CR | VM Latino" tvg-name="CR | VM Latino" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM- LATINO-transp.png" group-title="MUSICA", 309 | VM Latino
+https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+
+#EXTINF:-1 tvg-id="VE | Canal Mix Música" tvg-name="VE | Canal Mix Música" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/ mix-pngeee.png" group-title="MUSICA", En prueba | Mezclar canal de música
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -4391,8 +4525,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a través del spiderverso 
 http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg",Lego friends 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar 
 http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv 
 
@@ -5349,9 +5481,9 @@ http://144.217.70.79/VODS-M/720P/The%20Order%202001.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4dz05TygW3MaDPtSzJBM19Bugbf.jpg" group-title="PELICULAS" type="movie" , The Worlds Fastest Indian (2005) 
 http://144.217.70.79/VODS-M/720P/The%20Worlds%20Fastest%20Indian%202005.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg" group-title="PELICULAS" type="movie" , Timmy Failure Mistakes Were Made (2020) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg" group-title="PELICULAS" type="movie" , Togo (2019)
+http://144.217.70.79/VODS-M/720P/Timmy%20Failure%20Mistakes%20Were%20Made%202020.mkv
 
-http://144.217.70.79/VODS-M/720P/Timmy%20Failure%20Mistakes%20Were%20Made%202020.mkv 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg" group-title="PELICULAS" type="movie" , Togo (2019) 
 http://144.217.70.79/VODS-M/720P/Togo%202019.mkv 
 
@@ -7000,7 +7132,8 @@ http ://144.217.70.79/VODS-M/1080P/The%20Swarm%20(La%20nuee)%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p /w500/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="Pelis 3" type="película" , Vivo (2021) 
 http://144.217.70.79/VODS-M/1080P/Vivo%202021.mkv 
 
-#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/i6QFXv4lZyxRMknH0EDkCIz02XP.jpg" group-title="Pelis 3" type="película", Nivel de jefe (2021) http://144.217.70.79 /VODS-M/1080P/Boss%20Level%202021.mkv 
+#EXTINF:-1 tvg -logo="https://image.tmdb.org/t/p/w500/i6QFXv4lZyxRMknH0EDkCIz02XP.jpg" group-title="Pelis 3" type="película", Nivel de jefe (2021) 
+http://144.217.70.79 /VODS-M/1080P/Boss%20Level%202021.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg" group-title="Pelis 3" type="movie", El guardaespaldas de la esposa de Hitman (2021) 
 http://144.217.70.79/VODS-M/1080P/Hitmans%20Wifes%20Bodyguard%202021.mkv 
@@ -7017,7 +7150,6 @@ http://144.217.70.79/VODS-M/1080P/Roald%20and%20Beatrix%20The%20Tail% 20of%20the
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6yOakcmbhgV0PXaUvL6iCzxeeb3.jpg" group-title="Pelis 3" tipo ="película", Apocalipsis ártico (2019) 
 http://144.217.70.79/VODS-M/1080P/Arctic%20Apocalypse%202019.mkv 
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org /t/p/w500/o8CjAqb58H3pmqVN8jysrO3sZXJ.jpg" group-title="Pelis 3" type="película" , Desaparecido en acción 3 Braddock (1988) 
 http://144.217.70.79/VODS-M/1080P/Missing%20in %20Action%203%20Braddock%201988.mkv 
 
@@ -7029,8 +7161,6 @@ http://144.217.70.79/VODS-M/1080P/ Missing%20in%20Action%202%20The%20Beginning%2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg" group-title=" Pelis 3" type="película" , Luca (2021) 
 http://144.217.70.79/VODS-M/1080P/Luca%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb. org/t/p/w500/Foi2Via2fIACRJMB4934D5MP3j.jpg" group-title="Pelis 3" type="película" , Embattled%202020.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ttpKJ7XQxDZV252KNEHXtykYT41.jpg" group-title="Pelis 3" type="película" , El último mercenario (Le dernier mercenaire ) (2021) 
 http://144.217.70.79/VODS-M/1080P/The%20Last%20Mercenary%20(Le%20dernier%20mercenaire)%202021.mkv 
@@ -7171,6 +7301,7 @@ http://144.217.70.79/VODS-M/1080P/Game%20of%20Death%201978.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg" group-title="Pelis 3" type="película" , Space Jam (1996 ) 
 http://144.217.70.79/VODS-M/1080P/Space%20Jam%201996.mkv 
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmEPtz3UfzolIndiana Jones y el templo maldito (1984) 
 http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%201984.mkv 
 
@@ -7212,7 +7343,6 @@ http://144.217.70.79/VODS-M/1080P/Indiana%20Jones%20and%20the%20Temple%20of%20Do
 
 #EXTINF:-1 tvg-logo= "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Pelis 3" type="película", Indiana Jones En busca del arca perdida (1981) 
 http://144.217 .70.79/VODS-M/1080P/Indiana%20Jones%20Raiders%20of%20the%20Lost%20Ark%201981.mkv 
-
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dZ1rqmE4eIhPbUCr7sn2Pw2wwGW.jpg" group-title="Pelis 3" type="movie" ,Street Fighter II - La Película 
@@ -7299,7 +7429,8 @@ http://archive.org/download/cosas_202009/Nueva%20carpeta%20%285%29/The%20Amazing
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" type="playlist" group-title="Pelis 3" type="movie" ,The Crew SAGA 
 http://archive.org/download/cosas_202009/Nueva%20carpeta%20%285%29/The%20Crew%20SAGA.m3u 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg" group-title="Pelis 3" type="movie" ,THE END OF EVANGELION http://archive.org/download/7_20190824/1.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" type="playlist" group-title="Pelis 3" type="movie" ,The Evil Within SAGA http://archive.org/download/cosas_202009/Nueva%20carpeta%20%285%29/The%20Evil%20Within%20SAGA.m3u 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg" group-title="Pelis 3" type="movie" ,THE END OF EVANGELION 
+http://archive.org/download/7_20190824/1.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" type="playlist" group-title="Pelis 3" type="movie" ,The Evil Within SAGA http://archive.org/download/cosas_202009/Nueva%20carpeta%20%285%29/The%20Evil%20Within%20SAGA.m3u 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,THE GENTLEMAN (LOS CABALLEROS) 
 http://archive.org/download/3_20200608_20200608_1702/1.mp4 
@@ -7355,12 +7486,17 @@ http://archive.org/download/xmqp19tjml91xmqp/xmqp19tYjTmlP91xmqp.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7PeNpz4mDyRqDxMhC0g0FCpVwPB.jpg" group-title="Pelis 3" type="movie" ,TOM Y JERRY RAPIDOS Y FURIOSOS 
 http://archive.org/download/01qomry3m2o0nakaj/01qoAtYjMryFd10naKAj.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHmuHnN0qbou1auC96yPci1127f.jpg" group-title="Pelis 3" type="movie" ,TONTA PERO NO TANTO http://ia601509.us.archive.org/8/items/tonta-tontaperonotanto/TontaTontaperonotanto.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg" group-title="Pelis 3" type="movie" ,TORTUGAS NINJA http://archive.org/download/T81818M8787B87L544672p/T81818M8787B87L5446-72p.mkv 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHmuHnN0qbou1auC96yPci1127f.jpg" group-title="Pelis 3" type="movie" ,TONTA PERO NO TANTO 
+http://ia601509.us.archive.org/8/items/tonta-tontaperonotanto/TontaTontaperonotanto.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,TORTUGAS NINJA (2014) http://archive.org/download/3_20200510/2.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg" group-title="Pelis 3" type="movie" ,tortugas ninja 2 http://archive.org/download/tortugas2/tortugas2.avi #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,TOY STORY 1 http://archive.org/download/T12S1EJM224NQA4MN43KP6424/TS1EJM24MN43KP%296%28.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg" group-title="Pelis 3" type="movie" ,TOY STORY 2 http://archive.org/download/xoye_2mailnext_3/wiimc/2.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg" group-title="Pelis 3" type="movie" ,Toy Story 3 http://archive.org/download/to3_20200422/to3/to3.avi #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg" group-title="Pelis 3" type="movie" ,TOY STORY 4 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg" group-title="Pelis 3" type="movie" ,TORTUGAS NINJA 
+http://archive.org/download/T81818M8787B87L544672p/T81818M8787B87L5446-72p.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,TRAINSPOTING 
-http://archive.org/download/trainspotting_202007/Trainspotting.mp4 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,TORTUGAS NINJA (2014) 
+http://archive.org/download/3_20200510/2.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg" group-title="Pelis 3" type="movie" ,tortugas ninja 2 
+http://archive.org/download/tortugas2/tortugas2.avi #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,TOY STORY 1 http://archive.org/download/T12S1EJM224NQA4MN43KP6424/TS1EJM24MN43KP%296%28.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg" group-title="Pelis 3" type="movie" ,TOY STORY 2 http://archive.org/download/xoye_2mailnext_3/wiimc/2.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg" group-title="Pelis 3" type="movie" ,Toy Story 3 http://archive.org/download/to3_20200422/to3/to3.avi #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg" group-title="Pelis 3" type="movie" ,TOY STORY 4 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qBcIUgJmDGrcAKbhRwCd6AmO0ZW.jpg" group-title="Pelis 3" type="movie" ,TRANSFORMERS 
 http://archive.org/download/west_000/TR4NSF0R.mp4 
@@ -7502,5 +7638,4 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
