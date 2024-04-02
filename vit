@@ -2136,7 +2136,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo .png" group-title="DEPORTES", 222 | ESPN 2
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://e7.pngegg.com/pngimages/20/364/png-clipart-espn3-watchespn-espn-com-streaming-media-espn-3-television-text.png" group-title="DEPORTES", 223 | ESPN 3
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", 223 | ESPN 3
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 4" tvg-name="EE.UU. | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES", 224 | ESPN 4
@@ -7728,23 +7728,23 @@ http://archive.org/download/next-3/r4lfr0mp33l1n73rn37.mp4
 http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
-http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
- 
+http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo .png" group-title="DEPORTES", ESPN 2 | HD
 http://181.78.105.146:2000/play/a063/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNTres(Norte).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/ Espn3.png" group-title="DEPORTES", ESPN 3
+#EXTINF:-1 tvg-id="ESPNTres(Norte).mx" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", ESPN 3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", GOLTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="DEPORTES", GOLTV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA :TV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", BEIN SPORTS Ñ
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/42.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN PREMIUM LA HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
@@ -7758,16 +7758,16 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 1 MX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg"group-title="DEPORTES", ESPN 1 MX HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 MX FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", ESPN 2 MX FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/194.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN 3 MX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPhaUD9.jpg"group-title="DEPORTES", ESPN 3 MX HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN EXTRA MX FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.png"group-title="DEPORTES", ESPN EXTRA MX FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM HD
@@ -7776,8 +7776,11 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MX FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
 
-#EXTINF:-1 grupo-título="DEPORTES", FOX SPORTS 3 MX HD
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 MX HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 LA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/217.m3u8
 
 #EXTINF:-1 group-title="CANALES VARIADOS", WIN SPORTS PLUS CO FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/223.m3u8
@@ -7796,3 +7799,6 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
 
 #EXTINF:-1 group-title="NOVELAS", TLNOVELAS
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
+
+#EXTINF:-1 group-title="DEPORTES"COLOMBIA", RCN CO FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/123.m3u8
