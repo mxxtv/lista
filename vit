@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(or-KBLzvVDf9Mfx4ZFP9dzRImpVwqQWe9VsXDFP7ydJrXRLutBGkpQA0PTXvmpTJ9CNjKO2VOODgDakZiwCrziXZIbXXs6nZ2tA3U4E6OVE)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HoRS NOCH
+https://live-c.cf.dmcdn.net/sec2(DqPdIDMHBUu4vhF242WlT4FCnTj9UoH_FDRWIe3U0TVRvlf7WpZXDHcwVBAmgprAjzO65OeEGbZFzjaHmOYoRgTrIjgGWKV8Rimd0gVhblY)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -1239,7 +1239,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.
 #EXTINF:-413 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a024c9bc44f4adf14389bbfeab689cd2.webp" group-title="MEXICO", BOOMBERG MX
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/9209160a18004ef1b6760d694acb9af8/index_15.m3u8 
 
-#EXTINF:-414 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://postimg.cc/8scFmm8q", MUSIC TOP
+#EXTINF:-414 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lc.cx/yo9sr-", MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTINF:-415 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://i.postimg.cc/1X6jT53R/image.jpg", Telemusica
@@ -1248,10 +1248,10 @@ https://canal.mediaserver.com.co/live/telemusica.m3u8?hls_ctx=bj814339
 #EXTINF:-416 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://i.postimg.cc/mZjWMGdx/video.png", Video Tour Channel
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 
-#EXTINF:-417 group-title="CINE Y SERIES" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+#EXTINF:-417 group-title="CINE Y SERIES" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://m.media-amazon.com/images/I/71t6iuLwNHL.png", TV Exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-418 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+#EXTINF:-418 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lc.cx/rwfuLz", RadioTV.pro
 https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
 
 #EXTINF:-419 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
@@ -2091,7 +2091,7 @@ http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", 221 | ESPN
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo .png" group-title="DEPORTES", 222 | ESPN 2
+#EXTINF:-1 tvg-logo="https://lc.cx/RKCOA7" group-title="DEPORTES", 222 | ESPN 2
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", 223 | ESPN 3
@@ -2109,10 +2109,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 7" tvg-name="EE.UU. | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Claro Deportes" tvg-name="MX | Claro Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 228 | Claro Deportes
+#EXTINF:-1 tvg-id="MX | Claro Deportes" tvg-name="MX | Claro Deportes" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="DEPORTES", 228 | Claro Deportes
 http://138.59.177.34:8000/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-id="MX | Claro Deportes 2" tvg-name="MX | Claro Deportes 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/ 56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 229 | Claro Deportes 2
+#EXTINF:-1 tvg-id="MX | Claro Deportes 2" tvg-name="MX | Claro Deportes 2" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="DEPORTES", 229 | Claro Deportes 2
 http://138.59.177.34:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 230 | Deportes TNT
@@ -2566,7 +2566,7 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-id="DePeliculaPlus.mx"group-title="CINE Y SERIES",De Película Plus 
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" tvg-id="DistritoComedia.mx"group-title="MEXICO",Distrito Comedia (576p)
+#EXTINF:-1 tvg-logo="https://lc.cx/71oc1G" tvg-id="DistritoComedia.mx"group-title="MEXICO",Distrito Comedia (576p)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EclipseTV.mx",Eclipse TV (720p)
@@ -7737,7 +7737,7 @@ http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatin
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo .png" group-title="DEPORTES", ESPN 2 | HD
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://lc.cx/yNidZC" group-title="DEPORTES", ESPN 2 | HD
 http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNTres(Norte).mx" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/sPhaUD9.jpg" group-title="DEPORTES", ESPN 3
@@ -7758,10 +7758,10 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 4 LA FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX DEPORTES HD
+#EXTINF:-1 tvg-logo="https://lc.cx/r3Hiw3"group-title="DEPORTES", FOX DEPORTES HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN DEPORTES HD
+#EXTINF:-1 tvg-logo="https://lc.cx/aQwtSL"group-title="DEPORTES", ESPN DEPORTES HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.jpg"group-title="DEPORTES", ESPN 1 MX HD
@@ -7776,28 +7776,28 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9iC8v1.png"group-title="DEPORTES", ESPN EXTRA MX FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lOZWeD.png"group-title="DEPORTES", FOX SPORTS PREMIUM HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2 MX FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svwD4Tx.png"group-title="DEPORTES", FOX SPORTS 2 MX FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 MX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svwD4Tx.png"group-title="DEPORTES", FOX SPORTS 3 MX HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3 LA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svwD4Tx.png"group-title="DEPORTES", FOX SPORTS 3 LA HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/217.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", WIN SPORTS PLUS CO FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKDzu9t.png"group-title="DEPORTES", WIN SPORTS PLUS CO FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/223.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS
+#EXTINF:-1 tvg-logo="https://lc.cx/YWzU2J"group-title="DEPORTES",COL | DIRECTV SPORTS
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS 2
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/207.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", D SPORTS HD
+#EXTINF:-1 tvg-logo="https://lc.cx/YWzU2J"group-title="DEPORTES", D SPORTS HD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES", TNT
@@ -7806,5 +7806,5 @@ http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
 #EXTINF:-1 group-title="NOVELAS", TLNOVELAS
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
 
-#EXTINF:-1 group-title="COLOMBIA", RCN CO FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png"group-title="COLOMBIA", RCN CO FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/123.m3u8
