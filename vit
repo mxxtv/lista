@@ -24,7 +24,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://video2.lhdserver.es/pjtv/live.m3u8
 
 #EXTINF:-9 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC EC | HD
-https://alba-ec-tvc-tvc.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
@@ -1461,8 +1461,8 @@ https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximaf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFLcD2s3/MGI.jpg"group-title="NIÑOS Y ADOLECENTES",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="DOCUMENTALES",ANIMAL PLANET
-http://138.59.177.34:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-shift="0"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2p3mRrpdxh9Sw07ybGuvwXFsHCHC5o4TbG7z4b0mJw&s" group-title="ECUADOR",Revry_LatinX
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="",Nature Time
 https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
@@ -1716,7 +1716,7 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 http://138.59.177.34:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Pasiones" tvg-name="USA | Pasiones" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS",55 Pasiones
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/133.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Novelísima" tvg-name="USA | Novelísima" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="NOVELAS",Novelísima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
@@ -2174,7 +2174,7 @@ http://177.53.153.20:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES", 245 | Movistar Deportes
 http://177.53.153.20:8001/play/a0ca/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | El Canal del Fútbol" tvg-name="EC | El Canal del Fútbol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q= tbn:ANd9GcQwzWYSdZCspsQKxcVfO05M-kTMsA9kY76v-7hw5szdpg&s" group-title="DEPORTES", 246 | El Canal del Futbol
+#EXTINF:-1 tvg-id="EC | El Canal del Fútbol" tvg-name="EC | El Canal del Fútbol" tvg-logo="https://i.imgur.com/kRxbN72.png" group-title="DEPORTES", 246 | El Canal del Futbol
 http://177.53.153.20:8001/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | TUDN" tvg-name="EE.UU. | TUDN" tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="DEPORTES", 247 | TUDN
@@ -2369,9 +2369,8 @@ https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8?manifestfilter
 #EXTINF:-1 tvg-id="VE | Canal Mix Música" tvg-name="VE | Canal Mix Música" tvg-logo="https://img.freepik.com/vector-gratis/arte-canal-youtube-musica-plana_52683-58795.jpg?size=626&ext=jpg&ga=GA1.1.539837299.1711843200&semt=ais" group-title="MUSICA", En prueba | Mezclar canal de música
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="CO | Agrotendencia TV" tvg-name="CO | Agrotendencia TV" tvg-logo="https://yt3.googleusercontent.com/km-Yd_joQNwRduGOPjI3hBbcLGNgCEjZYnILj_2VT7Qvezmdt-iYXc7UjpY6jwi0UquzHUVd=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES", 311 | Agrotendencia TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w653625610.m3u8
+#EXTINF:-1 tvg-id="AR | TV Rural" tvg-name="AR | TV Rural" tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/ imagenes/canal-rural.png" group-title="DOCUMENTALES", 310 | Canal Rural
+https://cda2.alsolnet.com/elrural/live/chunklist_w1152779177.m3u8
 
 #EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg" group-title="DOCUMENTALES", 312 | TV Salud
 https://marine2.miplay.cl/tvsalud/playlist.m3u8
@@ -2380,34 +2379,34 @@ https://marine2.miplay.cl/tvsalud/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="DOCUMENTALES", 314 | Discovery Channel
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+http://45.238.21.131:6570/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="DOCUMENTALES", 315 | Discovery Science
-http://138.59.177.34:8000/play/a00v/index.m3u8
+http://177.53.153.20:8001/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES", 316 | Discovery Turbo
-http://pe.shortgod.com/volvimos2024/tv11.php?id=80
+http://177.53.153.20:8001/play/a09y/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTALES", 317 | Discovery World
-http://138.59.177.34:8000/play/a078/index.m3u8
+http://177.53.153.20:8001/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTALES", 318 | Discovery Theater
-http://138.59.177.34:8000/play/a05m/index.m3u8
+http://177.53.153.20:8001/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTALES", 319 | Animal Planet
-http://186.103.142.222:8000/play/a083/index.m3u8
+http://177.53.153.20:8001/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="DOCUMENTALES", 320 | National Geographic
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/NatGeo_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="DOCUMENTALES", 321 | History
-http://bantel.iptvperu.tv:1935/transcoderip/History_t4/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/History_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="DOCUMENTALES", 322 | History 2
 http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="DOCUMENTALES", 323 | Love Nature
-http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2_principal/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t2/lovenature_t2_principal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL | Atlas" tvg-name="CL | Atlas" tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240" group-title="DOCUMENTALES", 324 | Atlas
 http://191.97.60.193:10000/play/a02o/index.m3u8
@@ -3810,7 +3809,7 @@ http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/EL_CANAL_DEL_FUTBOL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kRxbN72.png" group-title="DEPORTES", El Canal del Futbol 
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/362510.m3u8
+http://177.53.153.20:8001/play/a040/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://lc.cx/nugSOv" group-title="SERVIDOR 2", NFL Channel 
 http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8 
@@ -7786,16 +7785,16 @@ https://cdn.adultiptv.net/pornstar.m3u8
 https://cdn.adultiptv.net/blowjob.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
-https://s.oxax.tv/4uR0qBxaMj-QvC6vUs7SCw/21/1715924322/index.m3u8
+https://s.oxax.tv/ZEyOS2PInMZGM5Fu-sHonA/21/1716096582/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
-https://s.oxax.tv/WO8rxL-8WK5OdR8wgAwZ3g/11/1715924488/index.m3u8
+https://s.oxax.tv/PFSpJgGYxN5fcSQ5I4BfMw/52/1716096647/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
-https://s.oxax.tv/dX6ydor1wmI1eq5mt_yMaQ/26/1715924603/index.m3u8
+https://s.oxax.tv/kEMTJKSbwn5553MXv3y7lw/28/1716096816/index.m3u8
 
 #EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:PHOTOCALL/chunklist_w277372717_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
 https://tv.teleclub.xyz/envivo/XXX/LIVECAMS/index.m3u8 
@@ -7867,13 +7866,13 @@ https://tv.teleclub.xyz/envivo/XXX/BRUNETTE/index.m3u8
 https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", PlayBoy HD 
-https://s.oxax.tv/uLyv4_YH1RyLPycsO_xorg/6/1715923121/index.m3u8
+https://s.oxax.tv/EaRaPVrUcbawbqV-D3sKQQ/6/1716096865/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Playboy HD
 http://177.53.153.20:8001/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
-https://s.oxax.tv/emo434atFlX_EvMAGEEOrg/16/1715924103/index.m3u8
+https://s.oxax.tv/eEI3Bo9fVRSM4THN-iRIJQ/16/1716096755/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01o.png" group-title="ZONA 18 XX", Venus
 http://177.53.153.20:8001/play/a01o/index.m3u8
@@ -7932,18 +7931,6 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", DEPORTES 32-GANADORES +
 http://186.103.142.222:8000/play/a04m/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", A08-ESPN
-http://186.103.142.222:8000/play/a087/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", A09-ESPN 2
-http://186.103.142.222:8000/play/a097/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 33-ESPN 6
-http://186.103.142.222:8000/play/a08f/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", 34-ESPN 5
-http://186.103.142.222:8000/play/a086/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", UFC NET FHD
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/5.m3u8
